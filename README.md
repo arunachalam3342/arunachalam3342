@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunachalam</h1>
 <h3 align="center">Aspiring CSE Student | Code Dreamer | Passionate Web developer</h3>
-<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
+<img align="right" alt="Coding" src="https://drive.google.com/file/d/1SWlrmB9sBUemByo_V_Ml22ibmASCV_Ki/view?usp=sharing">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arunachalam v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunachalam v" height="30" width="40" /></a>
