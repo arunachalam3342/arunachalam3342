@@ -1,9 +1,7 @@
-<div style="text-align: center;">
-  <h1 >Hi, I'm Arunachalam</h1>
-<h3 >Aspiring CSE Student | Code Dreamer | Passionate Web developer</h3>
+<h1 align="center">Hi, I'm Arunachalam</h1>
+<h3 align="center">Aspiring CSE Student | Code Dreamer | Passionate Web developer</h3>
+<img align="center" alt="Coding" src="https://media.tenor.com/Oc8cIGl9l6YAAAAC/anjan-modak.gif">
 
-  <img alt="Coding" src="https://media.tenor.com/Oc8cIGl9l6YAAAAC/anjan-modak.gif">
-</div>
 
 
 
