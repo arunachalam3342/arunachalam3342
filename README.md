@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arunachalam</h1>
 <h3 align="center">Aspiring CSE Student | Code Dreamer | Passionate Web developer</h3>
-<img align="right" alt="Coding" src="https://media.tenor.com/Oc8cIGl9l6YAAAAC/anjan-modak.gif">
+<img align="center" alt="Coding" src="https://media.tenor.com/Oc8cIGl9l6YAAAAC/anjan-modak.gif">
 
 
 ## 🌐 Socials:
